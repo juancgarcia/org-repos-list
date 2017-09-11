@@ -1,0 +1,16 @@
+{
+  "name": "org-repos-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parse-link-header": "^1.0.1",
+    "superagent": "^3.6.0"
+  }
+}
